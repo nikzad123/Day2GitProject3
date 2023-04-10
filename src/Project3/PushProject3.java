@@ -6,5 +6,7 @@ public class PushProject3 {
 		
 		System.out.println("3rd time adding Push...");
 	}
-
+   public void add3rdStush() {
+	   System.out.println("addin New Push for the project....");
+   }
 }
